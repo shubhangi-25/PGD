@@ -1,0 +1,101 @@
+﻿Patient ID,Age,Gender,Race,SES,Pre-existing Conditions,Insurance Status (Y/N),Marital Status,Employment Status,Residential Area,AQI,Cardiac Condition,Treatment Plan,Outcome
+1,65,Male,White,High,Hypertension,Yes,Married,Retired,Suburban,Moderate,MI,Surgery,Improved
+2,54,Female,Black,Middle,"Diabetes,Hypertension",Yes,Divorced,Employed,Urban,Moderate,Heart Failure,Medications,Stable
+3,72,Female,Hispanic,Middle,Hypertension,No,Single,Retired,Rural,Good,Arrhythmia,Medications,Stable
+4,45,Male,Asian,Middle,None,Yes,Married,Employed,Suburban,Good,MI,Surgery,Improved
+5,38,Male,White,Low,None,No,Married,Employed,Urban,Moderate,Arrhythmia,Lifestyle Changes,Stable
+6,59,Female,Black,Low,Diabetes,No,Married,Unemployed,Rural,Unhealthy,Heart Failure,Medications,Deteriorated
+7,70,Male,Asian,High,Hypertension,Yes,Widowed,Retired,Suburban,Good,MI,Surgery,Improved
+8,52,Female,Hispanic,Middle,Diabetes,Yes,Single,Employed,Urban,Moderate,Arrhythmia,Medications,Stable
+9,60,Female,White,Low,Hypertension,No,Divorced,Unemployed,Suburban,Unhealthy,Heart Failure,Medications,Deteriorated
+10,47,Male,Black,High,None,Yes,Married,Unemployed,Suburban,Good,MI,"Surgery,Medications",Improved
+11,66,Female,Asian,Middle,"Diabetes,Hypertension",Yes,Married,Retired,Urban,Unhealthy,Heart Failure,Medications,Stable
+12,53,Male,Black,Low,Hypertension,No,Divorced,Employed,Suburban,Unhealthy,Arrhythmia,Medications,Stable
+13,48,Female,White,Middle,None,Yes,Single,Employed,Urban,Good,MI,Surgery,Improved
+14,62,Non-binary,Black,High,Hypertension,Yes,Widowed,Retired,Suburban,Good,Heart Failure,Medications,Stable
+15,50,Male,Asian,Low,Diabetes,No,Married,Unemployed,Urban,Unhealthy,Arrhythmia,Medications,Deteriorated
+16,55,Female,Hispanic,Middle,Hypertension,Yes,Divorced,Employed,Suburban,Good,MI,Surgery,Deteriorated
+17,68,Male,Hispanic,High,Diabetes,Yes,Married,Retired,Urban,Moderate,Heart Failure,Medications,Stable
+18,46,Female,Black,Low,Hypertension,No,Single,Unemployed,Rural,Unhealthy,Arrhythmia,Medications,Deteriorated
+19,58,Male,Hispanic,Middle,None,Yes,Married,Employed,Urban,Moderate,MI,Surgery,Improved
+20,71,Female,Asian,High,Hypertension,Yes,Widowed,Retired,Suburban,Good,Heart Failure,Medications,Improved
+21,49,Non-binary,White,Middle,Diabetes,Yes,Married,Employed,Urban,Moderate,Arrhythmia,Lifestyle Changes,Stable
+22,67,Female,Black,Low,Hypertension,No,Divorced,Retired,Rural,Unhealthy,MI,Surgery,Deteriorated
+23,52,Female,Hispanic,High,None,Yes,Single,Employed,Suburban,Good,Arrhythmia,Medications,Stable
+24,56,Male,White,Low,Diabetes,No,Married,Unemployed,Urban,Moderate,Heart Failure,Medications,Stable
+25,64,Female,White,Middle,Hypertension,Yes,Widowed,Retired,Suburban,Moderate,MI,Surgery,Stable
+26,70,Non-binary,Asian,High,None,Yes,Divorced,Retired,Urban,Good,Heart Failure,Medications,Stable
+27,45,Male,Hispanic,Middle,Hypertension,Yes,Married,Employed,Rural,Unhealthy,Arrhythmia,Medications,Stable
+28,60,Female,White,Low,"Diabetes,Hypertension",No,Single,Unemployed,Suburban,Unhealthy,MI,Surgery,Deteriorated
+29,59,Male,White,High,Hypertension,Yes,Married,Employed,Urban,Good,Heart Failure,Medications,Improved
+30,47,Female,Asian,Middle,None,Yes,Divorced,Employed,Urban,Moderate,Arrhythmia,Lifestyle Changes,Stable
+31,39,Male,White,High,Diabetes,Yes,Married,Employed,Urban,Good,Heart Failure,Medications,Stable
+32,44,Male,White,High,None,Yes,Divorced,Employed,Urban,Moderate,Arrhythmia,Lifestyle Changes,Improved
+33,65,Male,Asian,Middle,Hypertension,No,Married,Employed,Urban,Good,MI,Surgery,Improved
+34,69,Non-binary,Black,Middle,Hypertension,No,Married,Employed,Urban,Good,Heart Failure,Medications,Stable
+35,75,Female,Asian,Middle,Diabetes,Yes,Married,Retired,Suburban,Unhealthy,Arrhythmia,Medications,Deteriorated
+36,76,Female,White,Low,None,No,Divorced,Retired,Rural,Moderate,MI,Lifestyle Changes,Stable
+37,45,Male,Hispanic,Middle,Diabetes,Yes,Single,Employed,Urban,Good,Heart Failure,Surgery,Stable
+38,43,Female,Asian,High,Diabetes,Yes,Married,Employed,Urban,Moderate,Arrhythmia,Medications,Improved
+39,80,Male,White,High,Hypertension,Yes,Married,Retired,Urban,Good,MI,Medications,Improved
+40,67,Female,Black,High,Hypertension,Yes,Married,Unemployed,Urban,Unhealthy,Heart Failure,Lifestyle Changes,Deteriorated
+41,69,Male,White,Middle,Diabetes,Yes,Divorced,Unemployed,Rural,Moderate,Arrhythmia,Surgery,Stable
+42,41,Male,Black,Low,"Diabetes,Hypertension",No,Single,Employed,Rural,Moderate,MI,Medications,Deteriorated
+43,54,Non-binary,White,High,"Diabetes,Hypertension",Yes,Widowed,Employed,Urban,Unhealthy,MI,Medications,Stable
+44,58,Male,Black,Low,Hypertension,No,Single,Employed,Urban,Moderate,Arrhythmia,Lifestyle Changes,Improved
+45,76,Male,White,High,Diabetes,Yes,Married,Unemployed,Urban,Good,Heart Failure,Medications,Improved
+46,77,Female,White,Middle,None,Yes,Married,Unemployed,Suburban,Unhealthy,MI,Lifestyle Changes,Stable
+47,47,Female,Hispanic,Middle,None,Yes,Married,Employed,Suburban,Moderate,Heart Failure,Medications,Deteriorated
+48,59,Male,Asian,Middle,Hypertension,No,Married,Employed,Urban,Good,Arrhythmia,Medications,Improved
+49,48,Male,White,High,Diabetes,Yes,Married,Employed,Urban,Good,MI,Lifestyle Changes,Improved
+50,58,Male,White,Middle,"Diabetes,Hypertension",Yes,Single,Employed,Suburban,Moderate,Heart Failure,Surgery,Stable
+51,61,Female,Black,Low,None,No,Married,Unemployed,Urban,Moderate,Arrhythmia,Medications,Deteriorated
+52,67,Female,Asian,Middle,Diabetes,Yes,Married,Employed,Rural,Unhealthy,MI,Medications,Deteriorated
+53,64,Male,Hispanic,Middle,Hypertension,Yes,Married,Employed,Urban,Moderate,Heart Failure,Medications,Stable
+54,59,Male,Black,High,Diabetes,Yes,Widowed,Unemployed,Urban,Good,Arrhythmia,Lifestyle Changes,Stable
+55,40,Male,White,High,Diabetes,Yes,Married,Employed,Urban,Unhealthy,MI,Surgery,Stable
+56,81,Male,White,Middle,"Diabetes,Hypertension",Yes,Married,Retired,Suburban,Moderate,Heart Failure,Medications,Improved
+57,79,Female,Black,High,None,Yes,Married,Unemployed,Suburban,Good,Arrhythmia,Medications,Stable
+58,45,Male,Black,Middle,Diabetes,No,Married,Employed,Urban,Unhealthy,MI,Medications,Improved
+59,53,Female,Asian,High,None,Yes,Widowed,Employed,Rural,Moderate,Arrhythmia,Lifestyle Changes,Improved
+60,54,Male,Hispanic,Middle,Diabetes,Yes,Married,Employed,Urban,Good,Arrhythmia,Surgery,Stable
+61,62,Female,White,Middle,"Diabetes,Hypertension",Yes,Married,Unemployed,Rural,Unhealthy,MI,Medications,Stable
+62,67,Male,Asian,Middle,"Diabetes,Hypertension",Yes,Married,Unemployed,Urban,Good,Heart Failure,Medications,Stable
+63,77,Male,Hispanic,Low,Diabetes,No,Married,Unemployed,Urban,Unhealthy,Arrhythmia,Surgery,Deteriorated
+64,73,Female,White,Middle,None,Yes,Married,Unemployed,Urban,Moderate,MI,Medications,Stable
+65,75,Female,Asian,Low,Hypertension,No,Married,Unemployed,Suburban,Moderate,Heart Failure,Lifestyle Changes,Deteriorated
+66,78,Non-binary,White,Low,None,No,Married,Unemployed,Suburban,Unhealthy,Arrhythmia,Surgery,Stable
+67,56,Male,Hispanic,Middle,Diabetes,Yes,Single,Employed,Urban,Moderate,MI,Medications,Stable
+68,71,Male,Black,Low,Diabetes,No,Widowed,Unemployed,Urban,Unhealthy,Arrhythmia,Medications,Deteriorated
+69,72,Male,White,Low,None,No,Married,Retired,Urban,Good,MI,Lifestyle Changes,Stable
+70,55,Non-binary,Black,Middle,None,Yes,Married,Employed,Rural,Unhealthy,Arrhythmia,Surgery,Stable
+71,65,Female,Hispanic,Middle,Diabetes,Yes,Married,Unemployed,Urban,Moderate,Heart Failure,Medications,Stable
+72,45,Female,Asian,High,"Diabetes,Hypertension",Yes,Single,Employed,Urban,Good,MI,Medications,Improved
+73,59,Female,White,High,Diabetes,Yes,Widowed,Employed,Urban,Unhealthy,Heart Failure,Medications,Deteriorated
+74,58,Male,Asian,Middle,Hypertension,Yes,Single,Employed,Suburban,Moderate,MI,Lifestyle Changes,Stable
+75,69,Male,White,Low,Diabetes,No,Married,Unemployed,Rural,Moderate,Arrhythmia,Surgery,Deteriorated
+76,53,Male,White,High,Hypertension,Yes,Married,Employed,Urban,Unhealthy,Heart Failure,Medications,Stable
+77,72,Male,White,High,Diabetes,Yes,Married,Retired,Urban,Moderate,MI,Medications,Improved
+78,68,Female,Black,Low,Diabetes,No,Widowed,Retired,Urban,Moderate,Heart Failure,Lifestyle Changes,Deteriorated
+79,39,Male,White,Low,Hypertension,No,Married,Employed,Rural,Unhealthy,Arrhythmia,Surgery,Stable
+80,65,Male,Asian,Middle,Diabetes,Yes,Married,Retired,Urban,Moderate,MI,Medications,Stable
+81,55,Male,Black,Middle,Hypertension,No,Married,Unemployed,Urban,Unhealthy,Arrhythmia,Lifestyle Changes,Deteriorated
+82,61,Female,Asian,Middle,Hypertension,Yes,Married,Retired,Urban,Unhealthy,MI,Surgery,Deteriorated
+83,51,Non-binary,Black,Low,None,No,Single,Unemployed,Suburban,Moderate,Heart Failure,Medications,Stable
+84,52,Male,Hispanic,Low,None,No,Married,Employed,Suburban,Good,Arrhythmia,Lifestyle Changes,Improved
+85,44,Female,Asian,High,Diabetes,Yes,Married,Employed,Rural,Unhealthy,MI,Surgery,Stable
+86,72,Male,Asian,High,Diabetes,Yes,Married,Retired,Urban,Moderate,Heart Failure,Medications,Improved
+87,65,Female,Black,Low,None,No,Widowed,Employed,Urban,Unhealthy,Arrhythmia,Medications,Deteriorated
+88,49,Female,White,High,Hypertension,Yes,Married,Employed,Rural,Good,MI,Surgery,Stable
+89,67,Male,Black,Low,"Diabetes,Hypertension",No,Married,Unemployed,Urban,Good,Heart Failure,Medications,Stable
+90,67,Non-binary,White,Low,Hypertension,No,Single,Unemployed,Urban,Moderate,Arrhythmia,Lifestyle Changes,Deteriorated
+91,77,Male,Hispanic,High,Diabetes,Yes,Married,Retired,Urban,Unhealthy,MI,Surgery,Stable
+92,74,Female,Black,Low,"Diabetes,Hypertension",No,Widowed,Unemployed,Suburban,Unhealthy,Arrhythmia,Medications,Deteriorated
+93,68,Male,White,High,Hypertension,Yes,Married,Retired,Urban,Good,MI,Medications,Stable
+94,75,Male,White,Middle,Diabetes,Yes,Married,Retired,Urban,Unhealthy,Arrhythmia,Medications,Stable
+95,76,Male,Black,Middle,Hypertension,No,Married,Retired,Urban,Unhealthy,Heart Failure,Lifestyle Changes,Deteriorated
+96,72,Female,Black,Middle,Diabetes,Yes,Married,Retired,Urban,Moderate,MI,Surgery,Deteriorated
+97,75,Male,White,Middle,Diabetes,Yes,Married,Retired,Rural,Unhealthy,MI,Medications,Stable
+98,56,Male,Hispanic,Middle,Diabetes,Yes,Married,Employed,Urban,Moderate,Arrhythmia,Lifestyle Changes,Improved
+99,75,Male,Asian,Low,None,No,Widowed,Unemployed,Urban,Good,Heart Failure,Surgery,Stable
+100,59,Female,Black,Low,None,No,Married,Unemployed,Urban,Moderate,MI,Medications,Deteriorated
